@@ -1,5 +1,5 @@
 # Learn about git and github
 
-'''javascript
+```javascript
 console.log('hello world');
-'''
+```
